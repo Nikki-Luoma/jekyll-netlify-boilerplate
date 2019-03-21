@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Helpful Tips
 permalink: /blog
 section: blog
