@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Interest Rates
 permalink: /about
 section: about
 intro_paragraph: |

@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: Contact
+title: Portfolio
 permalink: /contact
 section: contact
 intro_paragraph: |-
