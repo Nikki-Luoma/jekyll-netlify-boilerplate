@@ -82,3 +82,5 @@ Now navigate to [localhost:4000](http://localhost:4000/) to preview the site, an
 This is an ongoing project and I welcome contributions. Feel free to submit a PR.
 
 If you need any help with setting up Netlify CMS, you can reach out to the Netlify team in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f17dacf-2936-4f79-b26b-db4012b5b0ed/deploy-status)](https://app.netlify.com/sites/dailywallet/deploys)
