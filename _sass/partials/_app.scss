@@ -63,7 +63,7 @@ header > nav {
   }
   ul {
     // flexbox is better than grid for distributing an unknown qty of children
-    display: flex;
+    display: inline;
     li {
       margin-right: 2rem;
       display: inline-block;
