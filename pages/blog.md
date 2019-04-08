@@ -5,8 +5,10 @@ permalink: /blog
 section: blog
 intro_paragraph:
 ---
+<ul>
+ <li> Improve your Credit Score</li>
 
-- Improve your Credit Score
+ </ul>
 - Create an Obtainable Budget
 - Start Saving for Retirement
 - Set Financial Goals
