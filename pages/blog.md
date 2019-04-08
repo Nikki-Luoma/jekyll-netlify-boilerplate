@@ -3,7 +3,7 @@ layout: blog
 title: Helpful Tips
 permalink: /blog
 section: blog
-intro_paragraph: >
+intro_paragraph: |
 
 Here is a list of several helpful tips to keep improving your personal finances.
 ---
