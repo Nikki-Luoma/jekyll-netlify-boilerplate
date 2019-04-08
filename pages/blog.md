@@ -7,7 +7,9 @@ intro_paragraph:
 ---
 <ul>
  <li> Improve your Credit Score</li>
-
+  <ul>
+  <li>test</li>
+  </ul>
  </ul>
 - Create an Obtainable Budget
 - Start Saving for Retirement
