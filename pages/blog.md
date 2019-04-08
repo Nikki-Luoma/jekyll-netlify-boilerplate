@@ -4,10 +4,9 @@ title: Helpful Tips
 permalink: /blog
 section: blog
 intro_paragraph: >
-<ul>
-  <li>Improve your Credit Score</li>
-  <li>Create an Obtainable Budget</li>
-  <li>Start Saving for Retirement</li>
-  <li>Set Financial Goals</li>
-</ul>
+
+  Improve your Credit Score
+  Create an Obtainable Budget
+  Start Saving for Retirement
+  Set Financial Goals
 ---
