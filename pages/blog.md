@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Blog
+title: Helpful Tips
 permalink: /blog
 section: blog
 intro_paragraph: >
