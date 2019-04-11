@@ -4,8 +4,8 @@ title: Helpful Tips
 permalink: /blog
 section: blog
 intro_paragraph:
+Provided below are several helpful hints to help keep your finances in order.
 ---
-
 
 <ul>
     <li> Debt Ratios to Keep in Mind: </li>
