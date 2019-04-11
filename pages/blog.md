@@ -3,9 +3,16 @@ layout: blog
 title: Helpful Tips
 permalink: /blog
 section: blog
-intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+intro_paragraph:
 ---
+Below are helpful tips to help you reach your full financial potential.
+<ul>
+    <li> Debt Ratios to Keep in Mind: </li>
+    <li> Keep Consumer Debt < 20% of Net Income </li>
+    <li> Keep Housing Debt < 28% of Gross Income </li>
+    <li> Keep Total Debt < 36% of Gross Income </li>
+    <li> Improve your Credit Score </li>
+    <li> Create an Obtainable Budget</li>
+    <li> Start Saving for Retirement</li>
+    <li> Set Financial Goals </li>
+    </ul>
