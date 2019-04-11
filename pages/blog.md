@@ -3,7 +3,7 @@ layout: blog
 title: Helpful Tips
 permalink: /blog
 section: blog
-intro_paragraph:
+intro_paragraph: >
 Provided below are several helpful hints to help keep your finances in order.
 ---
 
