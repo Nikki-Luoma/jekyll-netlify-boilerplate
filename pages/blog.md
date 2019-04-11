@@ -12,9 +12,6 @@ intro_paragraph:
     <li> Keep Consumer Debt < 20% of Net Income </li>
     <li> Keep Housing Debt < 28% of Gross Income </li>
     <li> Keep Total Debt < 36% of Gross Income </li>
-    </ul>
-
-    <ul>
     <li> Improve your Credit Score </li>
     <li> Create an Obtainable Budget</li>
     <li> Start Saving for Retirement</li>
