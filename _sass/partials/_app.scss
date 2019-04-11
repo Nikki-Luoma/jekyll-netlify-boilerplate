@@ -117,7 +117,7 @@ main {
 // blog posts list
 html[data-current="blog"] main > section {
   ul li {
-    padding: 2rem 0;
+    padding:  0;
     border-bottom: 0.05em solid $hairline-color;
     p {
       padding-bottom: 0;
