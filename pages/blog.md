@@ -3,10 +3,9 @@ layout: blog
 title: Helpful Tips
 permalink: /blog
 section: blog
-intro_paragraph: >
-Provided below are several helpful hints to help keep your finances in order.
+intro_paragraph:
 ---
-
+Below are helpful tips to help you reach your full financial potential.
 <ul>
     <li> Debt Ratios to Keep in Mind: </li>
     <li> Keep Consumer Debt < 20% of Net Income </li>
