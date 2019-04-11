@@ -67,10 +67,7 @@ header > nav {
   margin: 0;
   padding: 0;
     li {
-      margin-right: 2rem;
-      display: inline-block;
-      @media screen and (min-width: $screen-sm-min) {
-        margin-right: 0;
+    float: left;
       }
       a,
       a:visited {
