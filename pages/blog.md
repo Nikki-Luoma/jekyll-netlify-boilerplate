@@ -14,7 +14,9 @@ intro_paragraph:
     <li> Keep Total Debt < 36% of Gross Income </li>
     </ul>
 
-    - Improve your Credit Score
-    - Create an Obtainable Budget
-    - Start Saving for Retirement
-    - Set Financial Goals
+    <ul>
+    <li> Improve your Credit Score </li>
+    <li> Create an Obtainable Budget</li>
+    <li> Start Saving for Retirement</li>
+    <li> Set Financial Goals </li>
+    </ul>
