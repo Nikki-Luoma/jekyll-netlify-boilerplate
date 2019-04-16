@@ -5,6 +5,7 @@ permalink: /contact
 section: contact
 intro_paragraph: |-
 
-Tips on Retirement Portfolio Construction based on how many desired years until
-retirement
+
+  [Netlify Forms](https://www.netlify.com/docs/form-handling/)
+
 ---
