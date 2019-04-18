@@ -12,9 +12,9 @@ intro_paragraph: |-
 
 <table>
 <tr>
-  <th> You </th>
-  <th> Bag </th>
-  <th> Luggage </th>
+  <th> Greater Than 20 Years </th>
+  <th> 5 to 20 Years </th>
+  <th> Less Than 5 Years </th>
 </tr>
 
 <tr>
