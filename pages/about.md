@@ -6,4 +6,12 @@ section: about
 intro_paragraph: |
   Presented in this table are a list of average interest rates for many diverse
   financial issues.
+
 ---
+
+<table>
+
+  <tr>
+    <th> Financial Data Point</th>
+    <th> Interest Rate </th>
+  </tr>
