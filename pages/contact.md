@@ -48,14 +48,57 @@ intro_paragraph: |-
 </tr>
 
 <tr>
-  <td> Phone </td>
-  <td> Headphones </td>
-  <td> Shoes </td>
+  <td> American Funds Fundamental Investors 10% </td>
+  <td> American Funds Fundamental Investors 10% </td>
+  <td> American Funds Fundamental Investors 10% </td>
 </tr>
 
 <tr>
-  <td> Phone </td>
-  <td> Headphones </td>
-  <td> Shoes </td>
+  <td> American Funds Int Growth and Income 5% </td>
+  <td> American Funds Int Growth and Income 8% </td>
+  <td> American Funds Int Growth and Income 5% </td>
 </tr>
+
+<tr>
+  <td> American Funds Washington Mut Inv Fund 10% </td>
+  <td> American Funds Washington Mut Inv Fund 10% </td>
+  <td> American Funds Washington Mut Inv Fund 10% </td>
+</tr>
+
+<tr>
+  <td> American Funds Income Fund of America 10% </td>
+  <td> American Funds Income Fund of America 10% </td>
+  <td> American Funds Income Fund of America 10% </td>
+</tr>
+
+<tr>
+  <td> American Funds Global Balanced 10% </td>
+  <td> American Funds Global Balanced 10% </td>
+  <td> American Funds Global Balanced 10% </td>
+</tr>
+
+<tr>
+  <td> American Funds Amer High Income Trust 0% </td>
+  <td> American Funds Amer High Income Trust 10% </td>
+  <td> American Funds Amer High Income Trust 10% </td>
+</tr>
+
+<tr>
+  <td> American Funds Bond Fund of America 5% </td>
+  <td> American Funds Bond Fund of America 10% </td>
+  <td> American Funds Bond Fund of America 15% </td>
+</tr>
+
+<tr>
+  <td> American Funds Capital World Bond Fund 0% </td>
+  <td> American Funds Capital World Bond Fund 5% </td>
+  <td> American Funds Capital World Bond Fund 5% </td>
+</tr>
+
+<tr>
+  <td> American Funds Short-Term Bond Fund 0% </td>
+  <td> American Funds Short-Term Bond Fund 0%  </td>
+  <td> American Funds Short-Term Bond Fund 5%  </td>
+</tr>
+
 </table>
