@@ -36,15 +36,15 @@ intro_paragraph: |-
 </tr>
 
 <tr>
-  <td> Phone </td>
-  <td> Headphones </td>
-  <td> Shoes </td>
+  <td> American Funds SMALLCAP World Fund 5% </td>
+  <td> American Funds SMALLCAP World Fund 0% </td>
+  <td> American Funds SMALLCAP World Fund 0%</td>
 </tr>
 
 <tr>
-  <td> Phone </td>
-  <td> Headphones </td>
-  <td> Shoes </td>
+  <td> American Funds American Mutual Fund 10% </td>
+  <td> American Funds American Mutual Fund 7% </td>
+  <td> American Funds American Mutual Fund 5% </td>
 </tr>
 
 <tr>
