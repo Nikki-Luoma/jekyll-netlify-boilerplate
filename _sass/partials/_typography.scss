@@ -106,7 +106,7 @@ table {
   padding: 5px 5px 5px 5px;
 }
 td, th {
-  border: 1px solid transparent;
+  border: 1px solid black;
   height: 30px;
   transition: all 0.3s;
 }
@@ -118,6 +118,8 @@ td {
   background: #FAFAFA;
   text-align: center;
 }
+
+
 
 tr:nth-child(even) td { background: #F1F1F1; }
 
