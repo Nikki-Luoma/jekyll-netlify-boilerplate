@@ -24,15 +24,33 @@ intro_paragraph: |-
 </tr>
 
 <tr>
-  <td> Cash </td>
-  <td> Snacks </td>
-  <td> Shorts </td>
+  <td> American Funds Growth Funds of America 15%</td>
+  <td> American Funds Growth Funds of America 10% </td>
+  <td> American Funds Growth Funds of America 5% </td>
 </tr>
 
 <tr>
-  <td> Credit Card </td>
-  <td> Laptop </td>
-  <td> Socks </td>
+  <td> American Funds New World Funds 10%</td>
+  <td> American Funds New World Funds 5% </td>
+  <td> American Funds New World Funds 5% </td>
+</tr>
+
+<tr>
+  <td> Phone </td>
+  <td> Headphones </td>
+  <td> Shoes </td>
+</tr>
+
+<tr>
+  <td> Phone </td>
+  <td> Headphones </td>
+  <td> Shoes </td>
+</tr>
+
+<tr>
+  <td> Phone </td>
+  <td> Headphones </td>
+  <td> Shoes </td>
 </tr>
 
 <tr>
