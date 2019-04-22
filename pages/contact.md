@@ -18,9 +18,9 @@ intro_paragraph: |-
 </tr>
 
 <tr>
-  <td>Passport </td>
-  <td> Magazine </td>
-  <td> Pants </td>
+  <td> American Funds EuroPacific Growth 10% </td>
+  <td> American Funds EuroPacific Growth 5% </td>
+  <td> American Funds EuroPacific Growth 5% </td>
 </tr>
 
 <tr>
