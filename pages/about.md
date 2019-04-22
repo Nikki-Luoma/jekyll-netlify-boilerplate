@@ -28,4 +28,5 @@ intro_paragraph: |
 
 </table>
 
-<small> US savings bond information can be found at https://www.treasurydirect.gov/news/pressroom/currentibondratespr.htm</small>
+<div><small> US savings bond information can be found at <a href = "https://www.treasurydirect.gov/news/pressroom/currentibondratespr.htm" >US Treasury </a> </small>
+</div>
