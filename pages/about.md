@@ -15,3 +15,10 @@ intro_paragraph: |
     <th> Financial Data Point</th>
     <th> Interest Rate </th>
   </tr>
+
+  <tr>
+    <td> US Savings Bonds Series EE</td>
+    <td> 0.1 % </td>
+  </tr>
+
+</table>
