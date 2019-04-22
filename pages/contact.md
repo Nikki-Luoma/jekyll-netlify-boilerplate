@@ -12,6 +12,7 @@ intro_paragraph: |-
 
 <table>
 <tr>
+<td></td>
   <th scope="col">Greater Than 20 Years</th>
   <th scope="col">5 to 20 Years</th>
   <th scope="col">Less Than 5 Years</th>
