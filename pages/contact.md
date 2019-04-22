@@ -18,6 +18,13 @@ intro_paragraph: |-
 </tr>
 
 <tr>
+  <th scope="row">American Funds EuroPacific Growth</th>
+  <td>10%</td>
+  <td>5%</td>
+  <td>5%</td>
+</tr>
+
+<tr>
   <td> American Funds EuroPacific Growth 10% </td>
   <td> American Funds EuroPacific Growth 5% </td>
   <td> American Funds EuroPacific Growth 5% </td>
