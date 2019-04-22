@@ -18,7 +18,14 @@ intro_paragraph: |
 
   <tr>
     <td> US Savings Bonds Series EE</td>
-    <td> 0.1 % </td>
+    <td> Annual Fixed Rate 0.1 % </td>
+  </tr>
+
+  <tr>
+    <td> US Savings Bonds Series I</td>
+    <td> Composite Rate of 2.83% </td>
   </tr>
 
 </table>
+
+<small> US savings bond information can be found at https://www.treasurydirect.gov/news/pressroom/currentibondratespr.htm</small>
