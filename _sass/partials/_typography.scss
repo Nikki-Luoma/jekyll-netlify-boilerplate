@@ -95,3 +95,35 @@ header > h1 {
     text-align: left;
   }
 }
+
+table {
+  color: #333;
+  width: 600px;
+  border: solid #777;
+  border-collapse: collapse;
+  border-width: 1pt 0pt 0pt 1pt;
+  border-spacing: 0;
+  margin: 30px;
+  padding: 5px 5px 5px 5px;
+}
+td, th {
+  border: 1px solid black;
+  height: 30px;
+  transition: all 0.3s;
+}
+th {
+  font-weight: bold;
+}
+
+td {
+  background: #FAFAFA;
+  text-align: center;
+}
+
+
+
+tr:nth-child(even) td { background: #F1F1F1; }
+
+tr:nth-child(odd) td {background: #FEFEFE; }
+
+tr td:hover {background: #666; color: #FFF; }

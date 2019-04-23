@@ -4,15 +4,58 @@ title: Interest Rates
 permalink: /about
 section: about
 intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+  Presented in this table are a list of average interest rates for many diverse
+  financial issues.
+
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### A heading
+<table>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <tr>
+    <th> Financial Data Point</th>
+    <th> Interest Rate </th>
+  </tr>
 
-#### Another heading
+  <tr>
+    <td> US Savings Bonds Series EE</td>
+    <td> Annual Fixed Rate 0.1 % </td>
+  </tr>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <tr>
+    <td> US Savings Bonds Series I</td>
+    <td> Composite Rate of 2.83% </td>
+  </tr>
+
+  <tr>
+    <td> 30 Year Mortgage </td>
+    <td> Average Interest Rate 4.44% </td>
+  </tr>
+
+  <tr>
+    <td>  </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+</table>
+
+<div><small> US savings bond information can be found at <a href = "https://www.treasurydirect.gov/news/pressroom/currentibondratespr.htm" > US Treasury </a>
