@@ -26,6 +26,36 @@ intro_paragraph: |
     <td> Composite Rate of 2.83% </td>
   </tr>
 
+  <tr>
+    <td> 30 Year Mortgage </td>
+    <td> Average Interest Rate 4.44% </td>
+  </tr>
+
+  <tr>
+    <td>  </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+
 </table>
 
 <div><small> US savings bond information can be found at <a href = "https://www.treasurydirect.gov/news/pressroom/currentibondratespr.htm" > US Treasury </a>
