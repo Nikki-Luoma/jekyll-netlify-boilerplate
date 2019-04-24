@@ -8,7 +8,7 @@ intro_paragraph: |
   financial issues.
 
 ---
-
+<div>
 <table>
 
   <tr>
@@ -57,7 +57,7 @@ intro_paragraph: |
   </tr>
 
 </table>
-
+</div>
 <div><small> US savings bond information can be found at <a href = "https://www.treasurydirect.gov/news/pressroom/currentibondratespr.htm" > US Treasury </a> </small> </div>
 
 <div><small> Certificate of Deposit information can be found at < a href = https://www.bankrate.com/cd.aspx> CD Info </a> </small> </div>
