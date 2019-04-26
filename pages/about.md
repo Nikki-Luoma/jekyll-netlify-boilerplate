@@ -50,9 +50,9 @@ intro_paragraph: |
     <td> Average Interest on Saving Account</td>
     <td> 0.10% </td>
   </tr>
-  
+
 </table>
 </div>
-<div><small> US savings bond information can be found at <a href = "https://www.treasurydirect.gov/news/pressroom/currentibondratespr.htm" > US Treasury </a> </small> </div>
+<div><small> US savings bond information can be found at <a href = "https://www.treasurydirect.gov/news/pressroom/currentibondratespr.htm" > US Treasury. </a> </small>
 
-<div><small> Certificate of Deposit information can be found at < a href = "https://www.bankrate.com/cd.aspx"> CD Info </a> </small> </div>
+<small> Certificate of Deposit information can be found at <a href = "https://www.bankrate.com/cd.aspx"> CD Info </a> </small> </div>
