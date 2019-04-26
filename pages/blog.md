@@ -5,7 +5,7 @@ permalink: /blog
 section: blog
 intro_paragraph: |
 
-Below are helpful tips to help you reach your full financial potential.
+  Below are helpful tips to help you reach your full financial potential.
 
 ---
 
